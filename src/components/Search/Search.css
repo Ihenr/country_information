@@ -1,0 +1,12 @@
+.serarch {
+  width: 60%;
+}
+
+.serarch input {
+  width: 75%;
+}
+
+.serarch button {
+  width: 25%;
+  text-align: center;
+}
